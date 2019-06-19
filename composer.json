@@ -10,9 +10,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "ardzz/http-request": "dev-master"
-    },
     "autoload": {
         "psr-4": {
             "ZeebDorker\\": "App/",
