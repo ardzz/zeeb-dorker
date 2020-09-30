@@ -14,11 +14,11 @@ Tools for your hacking activities 👊😎
 * PHP Version ^5.4.* or above
 
 ### Installation and How to Use
-1. First, you must have installed GIT `sudo apt install git`
-2. Clone or download this repository `git clone https://github.com/ardzz/zeeb-dorker.git`
-3. Run the code `php main.php`
-4. Enter your dork then type `y` or up to you if you want to save the results
-5. Finally, type the name of the file to be saved
+1. First, you must have installed GIT `sudo apt install git`.
+2. Clone or download this repository `git clone https://github.com/ardzz/zeeb-dorker.git`.
+3. Run the code `php main.php`.
+4. Enter your dork then type `y` or up to you if you want to save the results.
+5. Finally, type the name of the file to be saved.
 
 *Translated by Google Translate*
 
